@@ -1,0 +1,5 @@
+\\fs-project-lah\03_Technical_Office_Fitout\USER_TO\08. Nikolai Kryuchkov\42. Автоматизация BIM\Практика Revit API\Задание 7\RasstanovkaOtverstii\RasstanovkaOtverstii\obj\Debug\RasstanovkaOtverstii.csproj.CoreCompileInputs.cache
+\\fs-project-lah\03_Technical_Office_Fitout\USER_TO\08. Nikolai Kryuchkov\42. Автоматизация BIM\Практика Revit API\Задание 7\RasstanovkaOtverstii\RasstanovkaOtverstii\bin\Debug\RasstanovkaOtverstii.dll
+\\fs-project-lah\03_Technical_Office_Fitout\USER_TO\08. Nikolai Kryuchkov\42. Автоматизация BIM\Практика Revit API\Задание 7\RasstanovkaOtverstii\RasstanovkaOtverstii\bin\Debug\RasstanovkaOtverstii.pdb
+\\fs-project-lah\03_Technical_Office_Fitout\USER_TO\08. Nikolai Kryuchkov\42. Автоматизация BIM\Практика Revit API\Задание 7\RasstanovkaOtverstii\RasstanovkaOtverstii\obj\Debug\RasstanovkaOtverstii.dll
+\\fs-project-lah\03_Technical_Office_Fitout\USER_TO\08. Nikolai Kryuchkov\42. Автоматизация BIM\Практика Revit API\Задание 7\RasstanovkaOtverstii\RasstanovkaOtverstii\obj\Debug\RasstanovkaOtverstii.pdb
